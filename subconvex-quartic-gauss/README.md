@@ -59,3 +59,7 @@ While the work is a new preprint—and relies on Eckhardt and Patterson’s 1992
 * **A reusable Voronoi prism:** Applying, at indices that are units times powers of $1+i$, to the quartic Kubota series at *every* odd modulus $c$ over $\mathbb{Z}[i]$, Theorem B offers a ready-made tool whenever moduli with repeated prime factors cannot be avoided.
 * **Bringing $\mathrm{GL}_3$ amplification to covering groups:** The proof shows that Holowinsky and Nelson’s degeneration-to-zero-frequency method can be transplanted to metaplectic Dirichlet series, despite the lack of standard Euler products.
 * **A stepping stone toward general indices and cubic sums:** Because the argument uses reciprocity to turn the cubic index $-k^3/2$ into a character twist, arbitrary indices $a$ remain an open frontier. Still, combining an all-moduli metaplectic Voronoi formula with additive delta-method techniques offers a natural blueprint for general indices—and for analogous tools on the threefold cover over $\mathbb{Z}[e^{2\pi i/3}]$, a first step toward the subconvexity question Dunn and Radziwiłł raised for cubic Gauss sums.
+
+### License
+
+The paper, this article and the figures are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); the code in `src/` is under the MIT license. See [LICENSE.md](LICENSE.md) for details and a suggested credit line.
