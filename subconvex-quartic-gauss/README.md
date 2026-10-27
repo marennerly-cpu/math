@@ -2,7 +2,7 @@
 
 *By building an all-moduli "mathematical prism" on a four-sheeted covering group, a new paper adapts a modern amplification strategy to break the convexity barrier for Kubota’s Dirichlet series along an infinite family of indices.*
 
-**Paper:** [paper.pdf](paper.pdf) (46 pages; the AI disclosure is under the abstract on page 1).
+**Paper:** [paper.pdf](paper.pdf) (46 pages; the AI disclosure is under the abstract on page 1). **Figure code:** [src/](src/) (computes and independently re-checks every plotted value).
 
 In 1801, Carl Friedrich Gauss confronted a deceptively simple puzzle about prime numbers and the unit circle. For an odd prime $p$, run through the remainders $x = 0, 1, \dots, p-1$ and plot the complex roots of unity $\exp(2\pi i x^2/p)$ on the unit circle. Each point is a unit arrow pointing outward at an angle set by the square $x^2$ modulo $p$.
 
